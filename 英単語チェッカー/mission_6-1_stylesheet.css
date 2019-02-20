@@ -1,0 +1,79 @@
+.header{
+	position: relative;
+	padding:17px;
+	color: #FFFACD;
+	background: #696969;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.2);
+} 
+
+div.header-logo{
+	font-size:15px;
+	text-align: left;
+	font-family: fantasy;
+}
+
+div.headtop{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+	font-family: fantasy;
+}
+
+.signup_btn{
+	width: 25%;
+	font-size: 18px;
+	margin: 15px 15px;
+	display: inline-block;
+	background-color: #F0E68C;
+	color: #696969;
+	border-radius: 3px;
+	text-align: center;
+	padding: 8px 0 10px;
+	box-shadow: 3px 3px 3px #555;
+}
+.signup_btn:active{
+	position:relative;
+	top: 3px;
+	box-shadow: none;
+}
+
+.login_btn{
+	width: 25%;
+	font-size: 18px;
+	margin: 15px 15px;
+	display: inline-block;
+	background-color: #F0E68C;
+	color:#696969;
+	border-radius: 3px;
+	text-align: center;
+	padding: 8px 0 10px;
+	box-shadow: 3px 3px 3px #555;
+}
+.login_btn:active{
+	position:relative;
+	top: 3px;
+	box-shadow:none;
+}
+
+
+
+body{
+	color:#696969;
+	font-family: fantasy;
+	background-color:#FFFACD;
+}
+
+.h1{
+	color: #696969;
+	margin-top: 20px;
+}
+.box_form{
+	position: relative;
+	margin: 2em 0;
+	padding: 0.5em 1em;
+	border: solid 3px #696969;
+}
+.box_form p{
+	margin: 0;
+	padding: 20px 0px 20px 0px;
+}
